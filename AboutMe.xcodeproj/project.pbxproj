@@ -90,9 +90,9 @@
 				40CB1D791CE19E7D00612FA3 /* Assets.xcassets */,
 				68CC11531BB1AA4A003BDF43 /* Main.storyboard */,
 				40CB1D771CE19CCD00612FA3 /* HobbitonViewController.swift */,
-				40CB1D751CE19CB700612FA3 /* UluruViewController.swift */,
-				40CB1D731CE19C9F00612FA3 /* SoccerViewController.swift */,
 				40CB1D711CE18BB700612FA3 /* InterestsViewController.swift */,
+				40CB1D731CE19C9F00612FA3 /* SoccerViewController.swift */,
+				40CB1D751CE19CB700612FA3 /* UluruViewController.swift */,
 				68CC11581BB1AA4A003BDF43 /* LaunchScreen.storyboard */,
 				68CC115B1BB1AA4A003BDF43 /* Info.plist */,
 			);
